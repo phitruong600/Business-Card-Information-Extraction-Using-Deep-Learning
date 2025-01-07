@@ -72,6 +72,10 @@ This project automates the process of **extracting contact information** from bu
 
 ---
 
+![image](https://github.com/user-attachments/assets/21620f5f-67c7-45d5-9f59-c73fcceb0211)
+
+
+
 ## 🔮 Future Directions
 
 - **Multilingual Support**: Extend recognition for multiple languages.
