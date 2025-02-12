@@ -93,7 +93,8 @@ This project automates the process of **extracting contact information** from bu
 
 ## 📜 License
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the University of Industry Ho Chi Minh City License. See the LICENSE file for more details.
+
 
 ---
 
